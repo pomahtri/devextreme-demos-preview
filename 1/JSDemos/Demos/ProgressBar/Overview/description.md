@@ -1,1 +1,0 @@
-The ProgressBar is&nbsp;a&nbsp;UI component that shows current progress.

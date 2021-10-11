@@ -1,1 +1,0 @@
-The PivotGrid component is&nbsp;able to&nbsp;display running total values next to&nbsp;summary cells. The component can perform cross-group accumulation of&nbsp;running total values or&nbsp;accumulate them within each group separately.

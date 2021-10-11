@@ -1,1 +1,0 @@
-This demo illustrates how the Chart component treats points with _null_ value.

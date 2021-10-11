@@ -1,1 +1,0 @@
-DevExtreme Angular Pivot Grid is a client-side control for multi-dimensional data analysis. Its key features are: multiple summary calculation modes, customizable layout, exporting to Excel, integration with the DevExtreme Chart component. In addition, Pivot Grid supports TypeScript and AOT compilation and can be configured declaratively.

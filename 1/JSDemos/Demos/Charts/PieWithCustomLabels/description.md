@@ -1,1 +1,0 @@
-This demo illustrates how the PieChart component arranges labels in&nbsp;several columns. To&nbsp;maximize readability, the component ensures that labels do&nbsp;not overlap one another.

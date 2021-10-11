@@ -1,1 +1,0 @@
-The DevExtreme JavaScript Sankey Chart is&nbsp;used to&nbsp;visualize the flow magnitude between value sets. The values are connected. A&nbsp;wider connection denotes a&nbsp;higher flow magnitude.
